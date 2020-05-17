@@ -1,0 +1,6 @@
+bu bir denemedir.
+
+{{$adim}}
+
+
+
